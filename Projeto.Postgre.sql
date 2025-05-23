@@ -1,0 +1,1 @@
+INSERT INTO table_produto (id, nome, preco, quantidade) VALUES (1,'Caneta',2.50,100);
